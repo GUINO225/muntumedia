@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "videos": [
+    {
+      "id": "1",
+      "video_title": "Décidément, la femme claire est une bénédiction pour certains et un cauchemar pour d'autres.",
+      "videoUrl": "https://muntuvideo.s3.eu-north-1.amazonaws.com/7.mp4"
+    },
+    
+  ]
+}
